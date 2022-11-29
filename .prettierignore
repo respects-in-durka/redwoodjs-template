@@ -1,0 +1,5 @@
+.redwood
+.yarn
+node_modules
+
+#TODO + eslintignore
